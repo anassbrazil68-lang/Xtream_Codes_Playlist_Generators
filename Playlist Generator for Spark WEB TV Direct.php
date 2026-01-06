@@ -12,9 +12,9 @@ $ROOT_PATH = $protocol . $_SERVER['SERVER_NAME'] . dirname($_SERVER['PHP_SELF'])
 $PANEL_HOST = "192.168.1.10"; // PANEL IP
 $PANEL_PORT = "8888"; // PANEL PORT
 // $PORT_PUNCTUATION = ':'; // PORT PUNCTUATION
-$HTTP_PROTOCOL = "http"; // PROTOCOL http or https
-$USERNAME = "test";
-$PASSWORD = "test";
+$HTTP_PROTOCOL = "
+$USERNAME = anas1222
+$PASSWORD = anas1222
 $XML_FILE = "webtv_usr.xml";
 
 
